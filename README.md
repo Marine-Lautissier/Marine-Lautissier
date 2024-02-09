@@ -8,8 +8,8 @@ Grâce à cette formation intense et enrichissante, j'ai pu acquérir des compé
 - l'utilisation des langages <img width="80" height="40" align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/> & <img width="80" height="40" align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"/>,
 - la manipulation du DOM à l'aide du langage <img width="90" height="50" align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>,
 - la Programmation Orientée Objet à l'aide du langage <img width="80" height="40" align="center" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/> et de son Framework <img width="90" height="50" align="center" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"/>,
-- le respect de l'architecture MVC,
-    
+- le respect de l'architecture MVC,  
+
 - la création et la manipulation d'une base de données à l'aide de l'outil de gestion de base de données **Adminer**,
 - l'utilisation de la bibliothèque <img width="90" height="50" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> et des outils **Redux** & **Redux-Toolkit**,
 - l'utilisation du langage <img width="80" height="40" align="center" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"/>,
@@ -22,4 +22,7 @@ J'ai hâte de pouvoir intégrer une nouvelle entreprise qui me permettra d'appro
 
 ## Me contacter :  
   
-📫 Si vous souhaitez me contacter, vous pouvez le faire via cette adresse mail -> marine.lautissier@protonmail.com
+📫 Si vous souhaitez me contacter, vous pouvez le faire via cette adresse mail -> marine.lautissier@protonmail.com  
+<br/>  
+Lien de mon Portfolio : 
+https://marine-lautissier.netlify.app/
